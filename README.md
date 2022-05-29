@@ -2,7 +2,7 @@
 
 
 
-My nick name is Roghuchi. I am a Linux system administrator and a memeber of Uchiha clan 🔺🔻
+My nick name is Roghuchi. I am a Linux system administrator and a member of Uchiha clan 🔺🔻
 
 I am always looking for olives 🤓 The best olives are those that are Parvardeh 🫒
 
