@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+
+
+My nick name is Roghuchi. I am a Linux system administrator and a memeber of Uchiha clan 🔺🔻
+
 I am always looking for olives 🤓 The best olives are those that are Parvardeh 🫒
+
 
 ![Roghuchi's github stats](https://github-readme-stats.vercel.app/api?username=roghuchi&theme=merko&layout=compact)
 
