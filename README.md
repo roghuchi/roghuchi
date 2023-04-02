@@ -5,5 +5,4 @@
 My name is Roghuchi. I am a DevOps engineer and Python lover🔺🔻
 I am always looking for olives 🤓 The best olives are those that are Parvardeh 🫒
 
-
-<img alt="" data-canonical-src="https://www.codewars.com/users/roghuchi/badges/small" style="max-width: 100%;">
+![Codewars](https://github.r2v.ch/codewars?user=roghuchi&top_languages=true)
