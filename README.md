@@ -2,7 +2,8 @@
 <h4 align="center">Devops engineer | CI/CD & Cloud Automation Specialist</h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&locale=en" alt="roghuchi" /></p>
----
+
+### :woman_technologist: :
 
 - 💬 Ask me about **Olives**
 - ⚡ fact **The best olives are those that are Parvardeh**
