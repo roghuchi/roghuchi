@@ -5,8 +5,6 @@
 
 ---
 
-### :woman_technologist: :
-
 - 💬 Ask me about **Olives**
 - ⚡ fact **The best olives are those that are Parvardeh**
 
