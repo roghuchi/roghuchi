@@ -5,14 +5,11 @@
 
 - 💬 Ask me about **Olives**
 - ⚡ fact **The best olives are those that are Parvardeh**
+- 
 
-###
+<img src="https://raw.githubusercontent.com/roghuchi/roghuchi/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&theme=dark)
 
