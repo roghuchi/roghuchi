@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&locale=en" alt="roghuchi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roghuchi&" alt="roghuchi" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roghuchi&label=Profile%20views&color=0e75b6&style=flat" alt="roghuchi" /> </p>
 [![Toggoren codewars.com](https://www.codewars.com/users/roghuchi/badges/large)](https://www.codewars.com/r/wocz7g)
