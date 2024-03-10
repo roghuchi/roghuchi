@@ -9,12 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&theme=dark)
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+
+![My Skills](https://skillicons.dev/icons?i=django,git,jenkins,cicd,nodejs)
 
 ---
 
