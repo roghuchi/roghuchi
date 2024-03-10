@@ -9,5 +9,4 @@
 
 [![Toggoren codewars.com](https://www.codewars.com/users/roghuchi/badges/large)](https://www.codewars.com/r/wocz7g)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&locale=en" alt="roghuchi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roghuchi&show_icons=true&locale=en&layout=compact" alt="roghuchi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&locale=en" alt="roghuchi" /></p>    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roghuchi&show_icons=true&locale=en&layout=compact" alt="roghuchi" /></p>
