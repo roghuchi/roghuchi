@@ -4,10 +4,7 @@
 ---
 
 - 💬 Ask me about **Olives**
-- ⚡ fact **The best olives are those that are Parvardeh**
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roghuchi&show_icons=true&theme=dark)
+- ⚡ **The best olives are those that are Parvardeh**
 
 ---
 
