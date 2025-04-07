@@ -8,7 +8,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -23,17 +23,14 @@
 
 ---
 
-### :rocket: Recent Projects :
+### 🧠 DevOps Philosophy
 
-- **OpenLDAP Integration with Active Directory**: Simplified the integration of OpenLDAP with Active Directory, including detailed configurations and Ansible playbooks for streamlined setup of Linux servers for centralized authentication. :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
+- **Automate everything** — If you’re doing it twice, script it.
+- **CI/CD is a culture** — Not just pipelines. It's trust, speed, and feedback.
+- **Logs are gold** — Monitoring and observability are just as crucial as code.
+- **Simplicity scales** — Fewer moving parts = fewer failure points.
 
-- **F5 WAF Automation**: :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-
-- **Sigma Rule Automation**: :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
-
-- **Automated Debian Installation**: :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-
-- **Ansible and iLOrest for Server Management**: :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}
+> _"A good DevOps engineer disappears into the background — everything just works."_
 
 ---
 
