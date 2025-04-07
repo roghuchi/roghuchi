@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -25,7 +25,7 @@
 
 ---
 
-### 🧠 Codewars
+### Codewars
 
 [![Roghuchi's Codewars](https://www.codewars.com/users/roghuchi/badges/large)](https://www.codewars.com/users/roghuchi)
 
